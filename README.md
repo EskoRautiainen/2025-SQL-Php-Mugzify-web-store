@@ -1,4 +1,4 @@
-**Preview it on Youtube:** https://youtu.be/jhCMyrarvZc
+🔍 **Preview it on Youtube:** https://youtu.be/jhCMyrarvZc
 <br><br>
 
 
@@ -13,3 +13,6 @@
 **MySQL database:**
 <img width="1328" height="984" alt="Screenshot 2025-08-21 233116" src="https://github.com/user-attachments/assets/909231c3-14ea-4acc-a903-c71e0864072b" />
 <br>
+
+
+If we got graded for appearence over functionality, this project would look different :D
