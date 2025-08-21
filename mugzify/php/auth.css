@@ -1,0 +1,26 @@
+/* Yleiset tyylit */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    flex-direction: column; /* Järjestää elementit pystysuunnassa */
+    justify-content: center; /* Keskittää pystysuunnassa */
+    align-items: center; /* Keskittää vaakasuunnassa */
+    height: 100vh; /* Vie koko näytön korkeuden */
+    margin: 0;
+    text-align: center; /* Kaikki sisältö keskelle */
+}
+
+/* Lomake */
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center; /* Tekstit keskelle */
+    display: flex;
+    flex-direction: column;  /* Stack buttons vertically */
+    gap: 20px;  /* Adds space between buttons */
+}
+
