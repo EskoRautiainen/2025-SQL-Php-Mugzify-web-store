@@ -15,4 +15,4 @@
 <br>
 
 
-If we got graded for appearence over functionality, this project would look different :D
+If we were graded for appearence over functionality, the web store would look better :D
