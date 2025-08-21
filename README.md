@@ -1,6 +1,9 @@
 🔍 **Preview it on Youtube:** https://youtu.be/jhCMyrarvZc
 <br><br>
 
+Mugzify's web store is integrated with an SQL database hosted on our school's server.
+This database supports key functionalities such as user account registration, order processing, and customer reviews.
+Remote access to the database is available via Citrix Secure Access and PuTTY, allowing secure management and monitoring from off-campus locations.
 
 
 
