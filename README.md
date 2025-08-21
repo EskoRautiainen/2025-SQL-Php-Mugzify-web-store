@@ -15,4 +15,4 @@
 <br>
 
 
-If we were graded for appearence over functionality, the web store would look better :D
+The appearence of the web story is a bit harsh. The focus of this project was the functionalities. ⚙️
