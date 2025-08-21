@@ -15,4 +15,4 @@
 <br>
 
 
-The appearence of the web story is a bit harsh. The focus of this project was the functionalities. ⚙️
+The appearence of the web store is a bit harsh. The focus of this project was the functionalities. ⚙️
